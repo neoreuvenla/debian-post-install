@@ -21,7 +21,7 @@ sudo apt update
 sudo apt install -y git
 ```
 
-## Cloning the Repository
+## Cloning The Repository
 
 With `git` installed, the repository can be cloned to the local machine by running the following command in the terminal:
 
@@ -30,7 +30,7 @@ git clone https://github.com/neoreuvenla/debian-post-install.git
 cd debian-post-install
 ```
 
-## Running the Script
+## Running The Script
 
 Before running the script, make sure it is executable:
 
@@ -46,7 +46,7 @@ sudo ./setup-debian.sh
 
 Follow the on-screen prompts to complete the installations and configurations. The script will pause for input regarding the optional installation of the BigSur emulating theme.
 
-## What the Script Does
+## Script Summary
 
 Broadly, the script:
 
